@@ -16,12 +16,3 @@
 <a href="https://tailwindcss.com"><code><img height="20" src="./images/tailwindcss.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="./images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="./images/docker.png"></code></a>
-
-
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=xiaohaoTeam&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![xiaohaoTeam's github stats](https://github-readme-stats.vercel.app/api?username=xiaohaoTeam&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohaoTeam&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaohaoTeam&layout=compact&langs_count=6)
